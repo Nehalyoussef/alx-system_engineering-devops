@@ -1,0 +1,1 @@
+Webstack monitoring refers to the practice of monitoring the components and services within a web application's technology stack (or "web stack"). It involves tracking and analyzing various metrics and indicators to ensure the performance, availability, and reliability of the entire web application.
